@@ -16,7 +16,7 @@ Write a MATLAB program that adopts the simulated annealing strategy (see pp. 32â
 ![image](NM3/result.png)
 
 ## NM5
-### 1. Develop MATLAB code that implements simulated annealing to find the global minimum of $ f(x)=sin(x)+sin(10x/3)+ln(x)-0.84x+3  $ , where  $\ 2.7<=x<=7.5 $  
+### 1. Develop MATLAB code that implements simulated annealing to find the global minimum of $ f(x)=sin(x)+sin(10x/3)+ln(x)-0.84x+3  $ $f(x)=\sin(x)+\sin\left(\frac{10x}{3}\right)+\ln(x)-0.84x+3$ , where  $\ 2.7<=x<=7.5 $  
 
 The picture below shows the results of each iteration and the best solution, and is verified by the fminbnd.  
 
