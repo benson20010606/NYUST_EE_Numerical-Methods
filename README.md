@@ -6,8 +6,15 @@ Numerical methods refer to mathematical approaches that are often implemented wi
 Apply the bisection, false position, and simple fixedpoint iteration methods to solve equations,and Display the root and the number of iterations of each method for comparison
 - $\ x-sin(x)-3=0$  
 - $\ x^2-tanh(x)-x*ln(x)-2=0$  
-
 ![image](NM2/HW2.png)
+
+## NM 3
+Write a MATLAB program that adopts the simulated annealing strategy (see pp. 32—39 of Unit 5 lecture note) to solve the travelling salesman problem.  
+
+![image](NM3/TSP.png)
+
+![image](NM3/result.png)
+
 ## NM5
 ### 1. Develop MATLAB code that implements simulated annealing to find the global minimum of $\ f(x)=sin(x)+sin(10x/3)+ln(x)-0.84x+3  $ , where  $\ 2.7<=x<=7.5 $  
 
